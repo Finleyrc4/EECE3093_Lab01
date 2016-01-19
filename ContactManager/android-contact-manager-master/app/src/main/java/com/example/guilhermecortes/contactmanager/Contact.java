@@ -5,6 +5,9 @@ import android.net.Uri;
 /**
  * Created by guilhermecortes on 23/01/15.
  */
+
+// test comment RYAN FINLEY
+    
 public class Contact {
 
     private String _name, _phone, _email, _address;

@@ -30,6 +30,8 @@ import uk.co.senab.bitmapcache.CacheableBitmapDrawable;
  * see {@link MapTile} for an overview of how tiles are acquired by this overlay.
  */
 
+// TEST COMMENT FINLEY
+
 public class TilesOverlay extends SafeDrawOverlay {
 
     private static final String TAG = "TilesOverlay";
